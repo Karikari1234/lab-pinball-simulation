@@ -1,0 +1,2 @@
+- name: Notion Card Creator
+  uses: wcchristian/gh-action-notion-card@v1.0.0
