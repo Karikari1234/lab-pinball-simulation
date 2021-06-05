@@ -97269,7 +97269,7 @@ Phaser.Physics.Ninja.Circle.prototype = {
             target: 'balloutTrigger',
             state: 'activated',
             action: 'display',
-            message: 'ball out!',
+            message: 'goodybro',
             blink: true
           }, {
             target: 'plunger',
